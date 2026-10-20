@@ -1,22 +1,23 @@
-# 🌿 POSTMASTER2365
-### FURNITURE & LIVING
+# POSTMASTER2365 — Furniture & Living
 
 **Natural Elegance. Everyday Comfort.**
 
-Welcome to **POSTMASTER2365**, a modern furniture and home living brand dedicated to creating beautiful, comfortable, and inspiring spaces.
+A responsive furniture storefront concept in English, designed in olive green, warm beige and white.
 
-We believe every home deserves timeless furniture, thoughtful design, and a touch of natural elegance.
+## Features
+- Responsive homepage and furniture collections
+- Eight sample furniture products with USD prices
+- Category filters and product search
+- Shopping bag with persistent local browser storage
+- About section and newsletter demo
 
----
+## Deploy on GitHub Pages
+1. Upload `index.html` to the root of your GitHub repository.
+2. Open **Settings → Pages**.
+3. Under **Build and deployment**, choose **Deploy from a branch**.
+4. Select `main` and `/ (root)`, then save.
 
-## 🏡 About Us
+## Important
+This is a **demonstration storefront**. Prices and products are examples. Checkout and newsletter forms do not process payments, orders or subscriptions. Product photos are loaded from Unsplash over the internet and may require replacement for production. No claims about stock, shipping or returns are made.
 
-**POSTMASTER2365 Furniture & Living** is a contemporary furniture brand focused on modern interiors, elegant home furnishings, and everyday comfort.
-
-Our goal is to bring together sophisticated design, functionality, and timeless style to transform ordinary spaces into extraordinary homes.
-
-## 🛋️ Our Furniture Collections
-
-- 🛋️ **Living Room** — Elegant sofas, comfortable armchairs, coffee tables, and modern living essentials.
-- 🛏️ **Bedroom** — Stylish beds, nightstands, dressers, and bedroom furniture.
-- 🪑 **Dining Room** — Dining tables, premium chairs, and beautiful dining collections
+© 2026 POSTMASTER2365.
